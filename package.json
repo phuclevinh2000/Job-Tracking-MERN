@@ -1,0 +1,29 @@
+{
+  "name": "yourjob",
+  "version": "1.0.0",
+  "description": "Application use to track your job status",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "staer": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuclevinh2000/Job-Tracking-MERN.git"
+  },
+  "author": "Phuc Le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuclevinh2000/Job-Tracking-MERN/issues"
+  },
+  "homepage": "https://github.com/phuclevinh2000/Job-Tracking-MERN#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  }
+}
