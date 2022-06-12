@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 import validator from 'validator';
 
-const userSchema = new mongoose.Schema({
+const UserSchema = new mongoose.Schema({
   name: {
     type: String,
     required: [true, 'Please provide name'],
@@ -22,6 +22,7 @@ const userSchema = new mongoose.Schema({
     type: String,
     required: [true, 'Please provide password'],
     minlength: 6,
+    select: false,
   },
   lastName: {
     type: String,
@@ -37,4 +38,4 @@ const userSchema = new mongoose.Schema({
   },
 });
 
-export default mongoose.model('User', userSchema);
+export default mongoose.model('User', UserSchema);
