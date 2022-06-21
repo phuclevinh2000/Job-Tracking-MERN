@@ -29,6 +29,22 @@ const register = async (req, res) => {
 };
 
 const login = async (req, res) => {
+  const { email, password } = req.body;
+  if (!email || !password) {
+    throw new BadRequestError('Please provide all values!');
+  }
+
+  const user = await User.findOne({ email });
+
+  if (!user) {
+    throw new UnAuthenticatedError('Invalid Credentials');
+  }
+  console.log(user);
+
+  const isPasswordCorrect = await user.comparePassword(password);
+  if (!isPasswordCorrect) {
+    throw new UnAuthenticatedError('Invalid Credentials');
+  }
   res.send('Login user');
 };
 
