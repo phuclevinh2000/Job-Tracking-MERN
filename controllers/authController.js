@@ -52,7 +52,26 @@ const login = async (req, res) => {
 };
 
 const updateUser = async (req, res) => {
-  res.send('Update user');
+  const { email, name, lastName, location } = req.body;
+  if (!email || !name || !lastName || !location) {
+    throw new BadRequestError('Please provide add values');
+  }
+
+  const user = await User.findOne({ _id: req.user.userId });
+
+  user.email = email || user.email;
+  user.name = name || user.name;
+  user.lastName = lastName || user.lastName;
+  user.location = location || user.location;
+
+  await user.save();
+
+  const token = user.createJWT();
+  res.status(StatusCodes.OK).json({
+    user,
+    token,
+    location: user.location,
+  });
 };
 
 export { register, login, updateUser };
