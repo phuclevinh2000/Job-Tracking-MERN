@@ -55,14 +55,14 @@ const AppProvider = ({ children }) => {
   );
 
   // Response
-  authFetch.interceptors.request.use(
+  authFetch.interceptors.response.use(
     (response) => {
       return response;
     },
     (error) => {
       console.log(error.response);
       if (error.response.status === 401) {
-        console.log('AUTH ERROR');
+        logoutUser();
       }
       return Promise.reject(error);
     }
@@ -138,9 +138,7 @@ const AppProvider = ({ children }) => {
       });
       addUserToLocalStorage({ user, location, token });
     } catch (error) {
-      if (error.response.status === 401) {
-        logoutUser();
-      } else {
+      if (error.response.status === !401) {
         dispatch({
           type: UPDATE_USER_ERROR,
           payload: { msg: error.response.data.msg },
