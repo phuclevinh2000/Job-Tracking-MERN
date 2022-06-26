@@ -48,6 +48,7 @@ const login = async (req, res) => {
 
   const token = user.createJWT();
   user.password = undefined;
+  // console.log(user.password);
   res.status(StatusCodes.OK).json({ user, token, location: user.location });
 };
 
