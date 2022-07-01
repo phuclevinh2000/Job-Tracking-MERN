@@ -225,7 +225,7 @@ const AppProvider = ({ children }) => {
   };
 
   const editJob = () => {
-    console.log('edit jkob');
+    console.log('edit job');
   };
 
   const deleteJob = (id) => {
