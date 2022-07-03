@@ -1,6 +1,6 @@
 [
   {
-    "comany": "Lindgren, Bergstrom and Haley",
+    "company": "Lindgren, Bergstrom and Haley",
     "position": "Librarian",
     "jobLocation": "Santa Cruz",
     "jobType": "part-time",
@@ -9,7 +9,7 @@
     "createdAt": "2022-02-23T12:50:20Z"
   },
   {
-    "comany": "Boyle Group",
+    "company": "Boyle Group",
     "position": "Legal Assistant",
     "jobLocation": "Dobrljin",
     "jobType": "full-time",
@@ -18,7 +18,7 @@
     "createdAt": "2022-06-11T10:32:40Z"
   },
   {
-    "comany": "Rippin, Hamill and Johns",
+    "company": "Rippin, Hamill and Johns",
     "position": "Recruiting Manager",
     "jobLocation": "Merapit",
     "jobType": "remote",
@@ -27,7 +27,7 @@
     "createdAt": "2021-09-04T23:16:12Z"
   },
   {
-    "comany": "Bernhard, Nolan and D'Amore",
+    "company": "Bernhard, Nolan and D'Amore",
     "position": "Teacher",
     "jobLocation": "Karibib",
     "jobType": "internship",
@@ -36,7 +36,7 @@
     "createdAt": "2021-09-03T20:45:54Z"
   },
   {
-    "comany": "Donnelly, Lubowitz and D'Amore",
+    "company": "Donnelly, Lubowitz and D'Amore",
     "position": "Engineer I",
     "jobLocation": "Pilpichaca",
     "jobType": "remote",
@@ -45,7 +45,7 @@
     "createdAt": "2020-07-18T04:45:13Z"
   },
   {
-    "comany": "Gibson, Gutmann and O'Kon",
+    "company": "Gibson, Gutmann and O'Kon",
     "position": "Desktop Support Technician",
     "jobLocation": "Sandaotong",
     "jobType": "internship",
@@ -54,7 +54,7 @@
     "createdAt": "2021-02-22T14:07:28Z"
   },
   {
-    "comany": "McLaughlin, Doyle and Sporer",
+    "company": "McLaughlin, Doyle and Sporer",
     "position": "Paralegal",
     "jobLocation": "El Águila",
     "jobType": "full-time",
@@ -63,7 +63,7 @@
     "createdAt": "2021-11-26T16:11:29Z"
   },
   {
-    "comany": "Sanford LLC",
+    "company": "Sanford LLC",
     "position": "Chief Design Engineer",
     "jobLocation": "Kawengan",
     "jobType": "full-time",
@@ -72,7 +72,7 @@
     "createdAt": "2022-06-23T18:51:47Z"
   },
   {
-    "comany": "Waelchi Group",
+    "company": "Waelchi Group",
     "position": "Project Manager",
     "jobLocation": "Saskatoon",
     "jobType": "full-time",
@@ -81,7 +81,7 @@
     "createdAt": "2020-11-12T11:51:51Z"
   },
   {
-    "comany": "Toy-Mosciski",
+    "company": "Toy-Mosciski",
     "position": "Structural Engineer",
     "jobLocation": "Jami",
     "jobType": "remote",
@@ -90,7 +90,7 @@
     "createdAt": "2021-04-10T22:08:40Z"
   },
   {
-    "comany": "Reichert, Hayes and Von",
+    "company": "Reichert, Hayes and Von",
     "position": "Registered Nurse",
     "jobLocation": "San Juan Nepomuceno",
     "jobType": "internship",
@@ -99,7 +99,7 @@
     "createdAt": "2022-07-02T18:15:22Z"
   },
   {
-    "comany": "Goldner-Orn",
+    "company": "Goldner-Orn",
     "position": "Assistant Media Planner",
     "jobLocation": "Kelowna",
     "jobType": "remote",
@@ -108,7 +108,7 @@
     "createdAt": "2022-05-24T02:30:42Z"
   },
   {
-    "comany": "Bednar and Sons",
+    "company": "Bednar and Sons",
     "position": "Librarian",
     "jobLocation": "Booterstown",
     "jobType": "internship",
@@ -117,7 +117,7 @@
     "createdAt": "2021-08-08T17:42:27Z"
   },
   {
-    "comany": "Stark and Sons",
+    "company": "Stark and Sons",
     "position": "Geologist I",
     "jobLocation": "Carregal",
     "jobType": "part-time",
@@ -126,7 +126,7 @@
     "createdAt": "2022-03-18T07:18:03Z"
   },
   {
-    "comany": "Walsh, Buckridge and Langworth",
+    "company": "Walsh, Buckridge and Langworth",
     "position": "Electrical Engineer",
     "jobLocation": "Plavsk",
     "jobType": "remote",
@@ -135,7 +135,7 @@
     "createdAt": "2021-04-29T10:26:16Z"
   },
   {
-    "comany": "Metz-Gulgowski",
+    "company": "Metz-Gulgowski",
     "position": "Assistant Media Planner",
     "jobLocation": "Kirkton",
     "jobType": "full-time",
@@ -144,7 +144,7 @@
     "createdAt": "2020-07-06T00:03:57Z"
   },
   {
-    "comany": "Grant-Homenick",
+    "company": "Grant-Homenick",
     "position": "Software Test Engineer I",
     "jobLocation": "Weifang",
     "jobType": "remote",
@@ -153,7 +153,7 @@
     "createdAt": "2021-05-26T12:04:47Z"
   },
   {
-    "comany": "Kunde, Robel and Crist",
+    "company": "Kunde, Robel and Crist",
     "position": "Office Assistant II",
     "jobLocation": "Xiangyun",
     "jobType": "remote",
@@ -162,7 +162,7 @@
     "createdAt": "2021-03-26T00:52:17Z"
   },
   {
-    "comany": "Ledner LLC",
+    "company": "Ledner LLC",
     "position": "Paralegal",
     "jobLocation": "Pangkungparuk",
     "jobType": "remote",
@@ -171,7 +171,7 @@
     "createdAt": "2020-07-25T14:27:53Z"
   },
   {
-    "comany": "Armstrong, Rogahn and Paucek",
+    "company": "Armstrong, Rogahn and Paucek",
     "position": "Environmental Tech",
     "jobLocation": "Xiaotao",
     "jobType": "internship",
@@ -180,7 +180,7 @@
     "createdAt": "2021-11-16T15:24:08Z"
   },
   {
-    "comany": "Ernser, Bins and Schinner",
+    "company": "Ernser, Bins and Schinner",
     "position": "Software Consultant",
     "jobLocation": "Cililitan",
     "jobType": "full-time",
@@ -189,7 +189,7 @@
     "createdAt": "2022-03-07T08:42:41Z"
   },
   {
-    "comany": "Waelchi LLC",
+    "company": "Waelchi LLC",
     "position": "Programmer Analyst II",
     "jobLocation": "Budy",
     "jobType": "part-time",
@@ -198,7 +198,7 @@
     "createdAt": "2021-11-18T16:01:13Z"
   },
   {
-    "comany": "Halvorson, Kuphal and Langosh",
+    "company": "Halvorson, Kuphal and Langosh",
     "position": "Compensation Analyst",
     "jobLocation": "Tomado",
     "jobType": "remote",
@@ -207,7 +207,7 @@
     "createdAt": "2021-11-25T22:13:19Z"
   },
   {
-    "comany": "Daugherty-Terry",
+    "company": "Daugherty-Terry",
     "position": "Food Chemist",
     "jobLocation": "Dabat",
     "jobType": "remote",
@@ -216,7 +216,7 @@
     "createdAt": "2021-01-27T08:37:04Z"
   },
   {
-    "comany": "Conroy, Koelpin and Carter",
+    "company": "Conroy, Koelpin and Carter",
     "position": "Assistant Professor",
     "jobLocation": "Tapado",
     "jobType": "part-time",
@@ -225,7 +225,7 @@
     "createdAt": "2021-08-03T17:27:56Z"
   },
   {
-    "comany": "Crona, Douglas and Shanahan",
+    "company": "Crona, Douglas and Shanahan",
     "position": "Quality Engineer",
     "jobLocation": "Yanglang",
     "jobType": "internship",
@@ -234,7 +234,7 @@
     "createdAt": "2021-08-15T14:33:14Z"
   },
   {
-    "comany": "Reinger LLC",
+    "company": "Reinger LLC",
     "position": "VP Product Management",
     "jobLocation": "Villa Las Rosas",
     "jobType": "part-time",
@@ -243,7 +243,7 @@
     "createdAt": "2020-11-03T03:08:53Z"
   },
   {
-    "comany": "Nolan, Lang and Wilkinson",
+    "company": "Nolan, Lang and Wilkinson",
     "position": "Automation Specialist II",
     "jobLocation": "Moneghetti",
     "jobType": "remote",
@@ -252,7 +252,7 @@
     "createdAt": "2022-05-20T12:50:03Z"
   },
   {
-    "comany": "Mohr, Lehner and Hettinger",
+    "company": "Mohr, Lehner and Hettinger",
     "position": "Research Associate",
     "jobLocation": "Vília",
     "jobType": "remote",
@@ -261,7 +261,7 @@
     "createdAt": "2020-12-29T00:13:51Z"
   },
   {
-    "comany": "Weimann, Watsica and Yost",
+    "company": "Weimann, Watsica and Yost",
     "position": "VP Product Management",
     "jobLocation": "Xinqiao",
     "jobType": "full-time",
@@ -270,7 +270,7 @@
     "createdAt": "2022-02-06T23:48:47Z"
   },
   {
-    "comany": "Stehr-Trantow",
+    "company": "Stehr-Trantow",
     "position": "Research Assistant IV",
     "jobLocation": "Murillo",
     "jobType": "remote",
@@ -279,7 +279,7 @@
     "createdAt": "2020-11-29T23:00:01Z"
   },
   {
-    "comany": "Goodwin-Runolfsson",
+    "company": "Goodwin-Runolfsson",
     "position": "Internal Auditor",
     "jobLocation": "Narutō",
     "jobType": "part-time",
@@ -288,7 +288,7 @@
     "createdAt": "2021-09-13T04:10:08Z"
   },
   {
-    "comany": "Wolf LLC",
+    "company": "Wolf LLC",
     "position": "Editor",
     "jobLocation": "Magatos",
     "jobType": "internship",
@@ -297,7 +297,7 @@
     "createdAt": "2021-12-03T10:40:36Z"
   },
   {
-    "comany": "Kihn, Baumbach and Gerlach",
+    "company": "Kihn, Baumbach and Gerlach",
     "position": "Librarian",
     "jobLocation": "Livorno",
     "jobType": "remote",
@@ -306,7 +306,7 @@
     "createdAt": "2022-02-25T00:56:08Z"
   },
   {
-    "comany": "Pollich, Prosacco and Quitzon",
+    "company": "Pollich, Prosacco and Quitzon",
     "position": "Administrative Officer",
     "jobLocation": "Strängnäs",
     "jobType": "internship",
@@ -315,7 +315,7 @@
     "createdAt": "2021-10-17T20:04:11Z"
   },
   {
-    "comany": "Heller Inc",
+    "company": "Heller Inc",
     "position": "Systems Administrator I",
     "jobLocation": "Tanjung Timur",
     "jobType": "remote",
@@ -324,7 +324,7 @@
     "createdAt": "2022-06-04T06:54:05Z"
   },
   {
-    "comany": "Langosh LLC",
+    "company": "Langosh LLC",
     "position": "Data Coordiator",
     "jobLocation": "Salamanca",
     "jobType": "internship",
@@ -333,7 +333,7 @@
     "createdAt": "2022-06-07T05:55:17Z"
   },
   {
-    "comany": "Flatley-Kunde",
+    "company": "Flatley-Kunde",
     "position": "Senior Sales Associate",
     "jobLocation": "Qingzhou",
     "jobType": "internship",
@@ -342,7 +342,7 @@
     "createdAt": "2021-04-09T07:55:49Z"
   },
   {
-    "comany": "Tillman, Kuhn and Tillman",
+    "company": "Tillman, Kuhn and Tillman",
     "position": "VP Product Management",
     "jobLocation": "Bidikotak",
     "jobType": "remote",
@@ -351,7 +351,7 @@
     "createdAt": "2021-07-09T09:27:25Z"
   },
   {
-    "comany": "Bergstrom LLC",
+    "company": "Bergstrom LLC",
     "position": "Structural Engineer",
     "jobLocation": "Ntaur Satu",
     "jobType": "part-time",
@@ -360,7 +360,7 @@
     "createdAt": "2021-03-20T13:39:51Z"
   },
   {
-    "comany": "Moore, Wolff and Kub",
+    "company": "Moore, Wolff and Kub",
     "position": "Speech Pathologist",
     "jobLocation": "Vila Flor",
     "jobType": "internship",
@@ -369,7 +369,7 @@
     "createdAt": "2021-10-22T04:03:13Z"
   },
   {
-    "comany": "Gusikowski-Swift",
+    "company": "Gusikowski-Swift",
     "position": "Software Test Engineer I",
     "jobLocation": "Ajaccio",
     "jobType": "remote",
@@ -378,7 +378,7 @@
     "createdAt": "2022-04-28T11:02:05Z"
   },
   {
-    "comany": "Cartwright-Goyette",
+    "company": "Cartwright-Goyette",
     "position": "Data Coordiator",
     "jobLocation": "Kuznechikha",
     "jobType": "full-time",
@@ -387,7 +387,7 @@
     "createdAt": "2022-01-18T06:22:17Z"
   },
   {
-    "comany": "Kohler-Wehner",
+    "company": "Kohler-Wehner",
     "position": "Environmental Specialist",
     "jobLocation": "Yag La",
     "jobType": "remote",
@@ -396,7 +396,7 @@
     "createdAt": "2021-02-22T13:59:15Z"
   },
   {
-    "comany": "Cronin-Padberg",
+    "company": "Cronin-Padberg",
     "position": "Programmer II",
     "jobLocation": "Linjiang",
     "jobType": "full-time",
@@ -405,7 +405,7 @@
     "createdAt": "2020-10-30T02:09:27Z"
   },
   {
-    "comany": "Bergstrom Inc",
+    "company": "Bergstrom Inc",
     "position": "Senior Developer",
     "jobLocation": "Perivólia",
     "jobType": "part-time",
@@ -414,7 +414,7 @@
     "createdAt": "2022-03-09T03:15:05Z"
   },
   {
-    "comany": "Mueller Inc",
+    "company": "Mueller Inc",
     "position": "Legal Assistant",
     "jobLocation": "Maicao",
     "jobType": "internship",
@@ -423,7 +423,7 @@
     "createdAt": "2021-06-11T21:01:33Z"
   },
   {
-    "comany": "Tromp-O'Kon",
+    "company": "Tromp-O'Kon",
     "position": "Quality Engineer",
     "jobLocation": "Tabu",
     "jobType": "internship",
@@ -432,7 +432,7 @@
     "createdAt": "2022-04-05T17:02:22Z"
   },
   {
-    "comany": "Lubowitz-Grimes",
+    "company": "Lubowitz-Grimes",
     "position": "Account Coordinator",
     "jobLocation": "Calmar",
     "jobType": "full-time",
@@ -441,7 +441,7 @@
     "createdAt": "2021-07-20T23:02:22Z"
   },
   {
-    "comany": "King LLC",
+    "company": "King LLC",
     "position": "Statistician III",
     "jobLocation": "Lewotukan",
     "jobType": "remote",
@@ -450,7 +450,7 @@
     "createdAt": "2021-01-12T08:06:43Z"
   },
   {
-    "comany": "Moen-Fisher",
+    "company": "Moen-Fisher",
     "position": "Sales Representative",
     "jobLocation": "Jacksonville",
     "jobType": "full-time",
@@ -459,7 +459,7 @@
     "createdAt": "2021-05-08T14:09:43Z"
   },
   {
-    "comany": "Weissnat, D'Amore and Goyette",
+    "company": "Weissnat, D'Amore and Goyette",
     "position": "Accountant I",
     "jobLocation": "Changhe",
     "jobType": "internship",
@@ -468,7 +468,7 @@
     "createdAt": "2020-12-23T12:48:15Z"
   },
   {
-    "comany": "Klein, Rau and Mann",
+    "company": "Klein, Rau and Mann",
     "position": "Developer IV",
     "jobLocation": "Loznitsa",
     "jobType": "part-time",
@@ -477,7 +477,7 @@
     "createdAt": "2021-12-30T10:25:50Z"
   },
   {
-    "comany": "Harris, Bauch and Lemke",
+    "company": "Harris, Bauch and Lemke",
     "position": "Systems Administrator II",
     "jobLocation": "Barbalha",
     "jobType": "part-time",
@@ -486,7 +486,7 @@
     "createdAt": "2022-02-13T09:50:25Z"
   },
   {
-    "comany": "Pfannerstill, Predovic and Corwin",
+    "company": "Pfannerstill, Predovic and Corwin",
     "position": "VP Sales",
     "jobLocation": "Rizómata",
     "jobType": "internship",
@@ -495,7 +495,7 @@
     "createdAt": "2021-05-19T23:59:46Z"
   },
   {
-    "comany": "Haley Group",
+    "company": "Haley Group",
     "position": "Geological Engineer",
     "jobLocation": "Srbica",
     "jobType": "internship",
@@ -504,7 +504,7 @@
     "createdAt": "2021-05-22T21:48:08Z"
   },
   {
-    "comany": "Gerhold and Sons",
+    "company": "Gerhold and Sons",
     "position": "Social Worker",
     "jobLocation": "Nyimba",
     "jobType": "remote",
@@ -513,7 +513,7 @@
     "createdAt": "2020-12-31T06:14:36Z"
   },
   {
-    "comany": "Homenick, Nader and Heidenreich",
+    "company": "Homenick, Nader and Heidenreich",
     "position": "Automation Specialist IV",
     "jobLocation": "Concepción",
     "jobType": "full-time",
@@ -522,7 +522,7 @@
     "createdAt": "2022-02-05T17:06:32Z"
   },
   {
-    "comany": "Walter Inc",
+    "company": "Walter Inc",
     "position": "Senior Editor",
     "jobLocation": "Kiarajangkung",
     "jobType": "full-time",
@@ -531,7 +531,7 @@
     "createdAt": "2022-02-07T18:55:28Z"
   },
   {
-    "comany": "Huels and Sons",
+    "company": "Huels and Sons",
     "position": "Project Manager",
     "jobLocation": "Kafyr-Kumukh",
     "jobType": "internship",
@@ -540,7 +540,7 @@
     "createdAt": "2021-03-15T17:43:07Z"
   },
   {
-    "comany": "Homenick, Dooley and Walsh",
+    "company": "Homenick, Dooley and Walsh",
     "position": "VP Product Management",
     "jobLocation": "Shixi",
     "jobType": "internship",
@@ -549,7 +549,7 @@
     "createdAt": "2021-05-04T22:46:55Z"
   },
   {
-    "comany": "Nitzsche-Shanahan",
+    "company": "Nitzsche-Shanahan",
     "position": "Research Nurse",
     "jobLocation": "Aurora",
     "jobType": "part-time",
@@ -558,7 +558,7 @@
     "createdAt": "2021-04-21T13:08:21Z"
   },
   {
-    "comany": "MacGyver, Abshire and O'Reilly",
+    "company": "MacGyver, Abshire and O'Reilly",
     "position": "Clinical Specialist",
     "jobLocation": "Bayt Wazan",
     "jobType": "remote",
@@ -567,7 +567,7 @@
     "createdAt": "2021-04-15T05:46:19Z"
   },
   {
-    "comany": "Morissette-Kertzmann",
+    "company": "Morissette-Kertzmann",
     "position": "Cost Accountant",
     "jobLocation": "Tamorong",
     "jobType": "internship",
@@ -576,7 +576,7 @@
     "createdAt": "2022-03-02T18:27:08Z"
   },
   {
-    "comany": "Sporer LLC",
+    "company": "Sporer LLC",
     "position": "Analog Circuit Design manager",
     "jobLocation": "Tuzha",
     "jobType": "part-time",
@@ -585,7 +585,7 @@
     "createdAt": "2022-04-07T20:10:11Z"
   },
   {
-    "comany": "Dare Group",
+    "company": "Dare Group",
     "position": "Sales Representative",
     "jobLocation": "Pekuncen",
     "jobType": "full-time",
@@ -594,7 +594,7 @@
     "createdAt": "2020-09-05T06:32:27Z"
   },
   {
-    "comany": "Reilly-Wehner",
+    "company": "Reilly-Wehner",
     "position": "Computer Systems Analyst II",
     "jobLocation": "Selizharovo",
     "jobType": "full-time",
@@ -603,7 +603,7 @@
     "createdAt": "2020-07-03T17:51:39Z"
   },
   {
-    "comany": "Ernser-Schoen",
+    "company": "Ernser-Schoen",
     "position": "Librarian",
     "jobLocation": "Piancheng",
     "jobType": "internship",
@@ -612,7 +612,7 @@
     "createdAt": "2020-10-12T06:13:22Z"
   },
   {
-    "comany": "McGlynn, Kling and Hickle",
+    "company": "McGlynn, Kling and Hickle",
     "position": "Legal Assistant",
     "jobLocation": "Tamansari",
     "jobType": "full-time",
@@ -621,7 +621,7 @@
     "createdAt": "2020-08-15T20:54:53Z"
   },
   {
-    "comany": "Nienow, Harber and Labadie",
+    "company": "Nienow, Harber and Labadie",
     "position": "Chief Design Engineer",
     "jobLocation": "Nowa Sarzyna",
     "jobType": "remote",
@@ -630,7 +630,7 @@
     "createdAt": "2021-12-09T06:19:14Z"
   },
   {
-    "comany": "Block Group",
+    "company": "Block Group",
     "position": "Structural Engineer",
     "jobLocation": "Solna",
     "jobType": "remote",
@@ -639,7 +639,7 @@
     "createdAt": "2022-04-27T06:17:29Z"
   },
   {
-    "comany": "Kling-Dach",
+    "company": "Kling-Dach",
     "position": "Administrative Officer",
     "jobLocation": "Nakajah",
     "jobType": "part-time",
@@ -648,7 +648,7 @@
     "createdAt": "2021-05-28T22:44:05Z"
   },
   {
-    "comany": "Beer Group",
+    "company": "Beer Group",
     "position": "Editor",
     "jobLocation": "Huangqiao",
     "jobType": "full-time",
@@ -657,7 +657,7 @@
     "createdAt": "2022-05-17T04:17:07Z"
   },
   {
-    "comany": "Powlowski-Yundt",
+    "company": "Powlowski-Yundt",
     "position": "Paralegal",
     "jobLocation": "Taganak",
     "jobType": "remote",
@@ -666,7 +666,7 @@
     "createdAt": "2021-12-12T19:21:10Z"
   },
   {
-    "comany": "Brown-Tillman",
+    "company": "Brown-Tillman",
     "position": "Chief Design Engineer",
     "jobLocation": "Qianjin",
     "jobType": "remote",
