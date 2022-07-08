@@ -248,7 +248,8 @@ const reducer = (state, action) => {
     return {
       ...state,
       search: '',
-      searchSTatus: 'all',
+      searchStatus: 'all',
+      searchType: 'all',
       sort: 'latest',
     };
   }

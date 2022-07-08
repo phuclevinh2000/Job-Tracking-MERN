@@ -61,7 +61,8 @@ const initialState = {
   page: 1,
   monthlyApplications: [],
   search: '',
-  searchSTatus: 'all',
+  searchStatus: 'all',
+  searchType: 'all',
   sort: 'latest',
   sortOptions: ['latest', 'oldest', 'a-z', 'z-a'],
 };
@@ -214,7 +215,12 @@ const AppProvider = ({ children }) => {
 
   // Get all jobs
   const getJobs = async () => {
-    let url = `/jobs`;
+    const { search, searchStatus, searchType, sort } = state;
+    console.log(searchType);
+    let url = `/jobs?status=${searchStatus}&jobType=${searchType}&sort=${sort}`;
+    if (search) {
+      url = url + `&search=${search}`;
+    }
     dispatch({ type: GET_JOBS_BEGIN });
     try {
       const { data } = await authFetch(url);
