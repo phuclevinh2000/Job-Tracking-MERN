@@ -29,6 +29,7 @@ import {
   EDIT_JOB_ERROR,
   SHOW_STATS_BEGIN,
   SHOW_STATS_SUCCESS,
+  CLEAR_FILTERS,
 } from './actions';
 
 const token = localStorage.getItem('token');
@@ -59,6 +60,10 @@ const initialState = {
   numOfPages: 1,
   page: 1,
   monthlyApplications: [],
+  search: '',
+  searchSTatus: 'all',
+  sort: 'latest',
+  sortOptions: ['latest', 'oldest', 'a-z', 'z-a'],
 };
 
 const AppContext = React.createContext();
@@ -288,6 +293,10 @@ const AppProvider = ({ children }) => {
     clearAlert();
   };
 
+  const clearFilter = () => {
+    dispatch({ type: CLEAR_FILTERS });
+  };
+
   return (
     <AppContext.Provider
       value={{
@@ -306,6 +315,7 @@ const AppProvider = ({ children }) => {
         deleteJob,
         editJob,
         showStats,
+        clearFilter,
       }}
     >
       {children}
