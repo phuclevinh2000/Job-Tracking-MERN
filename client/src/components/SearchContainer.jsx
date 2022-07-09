@@ -7,7 +7,6 @@ const SearchContainer = () => {
   const {
     isLoading,
     search,
-    seachStatus,
     searchType,
     sort,
     sortOptions,

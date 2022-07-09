@@ -28,7 +28,6 @@ const PageBtnContainer = () => {
     return index + 1;
   });
 
-  console.log(pages);
   return (
     <Wrapper>
       <button className='prev-btn' onClick={prevPage}>
