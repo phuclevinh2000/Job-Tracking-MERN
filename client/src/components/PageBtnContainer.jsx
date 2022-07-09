@@ -4,14 +4,24 @@ import { HiChevronDoubleLeft, HiChevronDoubleRight } from 'react-icons/hi';
 import Wrapper from '../assets/wrappers/PageBtnContainer';
 
 const PageBtnContainer = () => {
-  const { numOfPages, page } = useAppContext();
+  const { numOfPages, page, changePage } = useAppContext();
 
+  // If click page bigger than the highest one, then choose 1
   const nextPage = () => {
-    console.log('next page');
+    let newPage = page + 1;
+    if (newPage < 1) {
+      newPage = 1;
+    }
+    changePage(newPage);
   };
 
+  // If click smaller than 1 page, then choose the highest one
   const prevPage = () => {
-    console.log('prev page');
+    let newPage = page - 1;
+    if (newPage < 1) {
+      newPage = numOfPages;
+    }
+    changePage(newPage);
   };
 
   const pages = Array.from({ length: numOfPages }, (_, index) => {
@@ -32,8 +42,8 @@ const PageBtnContainer = () => {
             <button
               type='button'
               className={pageNumber === page ? 'pageBtn active' : 'pageBtn'}
-              key={page}
-              onClick={() => console.log('change page')}
+              key={pageNumber}
+              onClick={() => changePage(pageNumber)}
             >
               {pageNumber}
             </button>
