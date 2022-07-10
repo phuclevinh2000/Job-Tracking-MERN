@@ -1,6 +1,6 @@
 # What is this project
 
-This project is a MERN stack ecommerce web application
+This project is a MERN stack job tracking web application
 
 # Image
  
